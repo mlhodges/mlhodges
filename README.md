@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🌱 I’m currently learning coding, networking, and github 😊
+- 👯 I’m looking to collaborate on open source projects. 
+- 📫 How to reach me: v4lkyr13@disroot.org
 
 <!--
 **mlhodges/mlhodges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
